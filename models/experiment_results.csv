@@ -1,0 +1,5 @@
+experiment,MAE,RMSE
+Naive Baseline,1.2083,1.6708
+Random Forest V1,0.8969,1.1127
+Random Forest V2 + Calendar,0.9016666666666667,1.130932506091028
+Random Forest V3 + Price,0.8966180555555555,1.1233603117639042
