@@ -719,6 +719,26 @@ Evaluation
 
 Future versions will focus on productionization, real-time inference, monitoring, deployment, and more advanced forecasting techniques.
 
+## Dataset
+
+This project uses the M5 Forecasting dataset.
+
+Due to the size of the original and processed datasets, the data is intentionally excluded from this repository.
+
+The dataset can be downloaded from the official Kaggle competition:
+
+https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+
+After downloading, place the files in:
+
+```text
+data/
+├── raw/
+│   ├── calendar.csv
+│   ├── sales_train_validation.csv
+│   └── sell_prices.csv
+└── processed/
+
 Author
 
 Rishabh Trivedi
